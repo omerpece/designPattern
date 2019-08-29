@@ -1,0 +1,12 @@
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\bin\Debug\WFA_DesignPatterns.DATA.dll.config
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\bin\Debug\WFA_DesignPatterns.DATA.dll
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\bin\Debug\WFA_DesignPatterns.DATA.pdb
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\bin\Debug\EntityFramework.dll
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\bin\Debug\EntityFramework.xml
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\obj\Debug\WFA_DesignPatterns.DATA.csprojAssemblyReference.cache
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\obj\Debug\WFA_DesignPatterns.DATA.csproj.CoreCompileInputs.cache
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\obj\Debug\WFA_DesignPatterns.DATA.csproj.CopyComplete
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\obj\Debug\WFA_DesignPatterns.DATA.dll
+C:\Users\omer.pece\Desktop\ornek\DesignPattersn\WFA_DesignPatterns.DATA\obj\Debug\WFA_DesignPatterns.DATA.pdb
