@@ -51,8 +51,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Context\DataContext.cs" />
+    <Compile Include="IMusteriRepositori.cs" />
+    <Compile Include="Kategori.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Musteri.cs" />
+    <Compile Include="Ogrenci.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

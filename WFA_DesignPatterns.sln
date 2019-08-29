@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_DesignPatterns.Reposito
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_DesignPatterns.DATA", "WFA_DesignPatterns.DATA\WFA_DesignPatterns.DATA.csproj", "{E1605085-8828-4F65-81DF-EE6137D94EAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{945247B8-6E16-403B-8F1B-A5022862D165}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E1605085-8828-4F65-81DF-EE6137D94EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1605085-8828-4F65-81DF-EE6137D94EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1605085-8828-4F65-81DF-EE6137D94EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945247B8-6E16-403B-8F1B-A5022862D165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945247B8-6E16-403B-8F1B-A5022862D165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945247B8-6E16-403B-8F1B-A5022862D165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945247B8-6E16-403B-8F1B-A5022862D165}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
